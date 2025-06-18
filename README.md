@@ -1,7 +1,7 @@
 # CSE702025-LT8-Nhom11
-# Ảnh demo
 # Đề tài : XÂY DỰNG WEBSITE ĐẶT MÓN ONLINE TẠI NHÀ HÀNG
 # Các thành viên : Lê Hải Đăng(22010260) , Phạm Tuấn Anh(22010227) , Đào Minh Quân(22010190)
+# Ảnh demo
 **User Home Screens**
 
 ![Screenshot 2025-05-15 012131](https://github.com/user-attachments/assets/a3f3061e-54c3-4f8e-bd9e-37bfca336bd4)
