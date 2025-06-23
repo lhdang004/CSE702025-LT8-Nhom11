@@ -7,8 +7,12 @@ Ngày nay, khách hàng ngày càng ưa chuộng việc tìm kiếm thông tin, 
 Dẫu vậy, một website được thiết kế và vận hành tốt sẽ mang lại nhiều lợi ích thiết thực, từ việc tăng cường uy tín, tiếp cận khách hàng tiềm năng đến nâng cao sự gắn kết và cải thiện trải nghiệm người dùng. Đây chính là bước đi cần thiết để các nhà hàng vượt qua các chế độ hạn chế của phương thức truyền tải, tạo dựng cơ sở vững chắc và phát triển cơ sở vững chắc trong thời đại số hóa. Đó cũng chính là lí do nhóm chúng em chọn chủ đề “ Xây dựng website giới thiệu ẩm thực nhà hàng”.
 </p>
 
+# slide Thuyết Trình
+[Kỹ Thuật Phần Mềm.pdf](https://github.com/user-attachments/files/20859845/K.Thu.t.Ph.n.M.m.pdf)
 # Ảnh demo
 **User Home Screens**
+
+
 
 ![Screenshot 2025-05-15 012131](https://github.com/user-attachments/assets/a3f3061e-54c3-4f8e-bd9e-37bfca336bd4)
 
