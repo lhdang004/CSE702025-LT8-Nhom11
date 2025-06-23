@@ -1,6 +1,12 @@
 # CSE702025-LT8-Nhom11
 # Đề tài : XÂY DỰNG WEBSITE ĐẶT MÓN ONLINE TẠI NHÀ HÀNG
 # Các thành viên : Lê Hải Đăng(22010260) , Phạm Tuấn Anh(22010227) , Đào Minh Quân(22010190)
+
+<p> Trong thời đại kinh tế số hóa, sự phát triển mạnh mẽ của công nghệ thông tin đã mở ra nhiều cơ hội cho các doanh nghiệp, đặc biệt là ngành dịch vụ ăn uống. Việc xây dựng một website giới thiệu ẩm thực không chỉ là xu hướng tất yếu mà còn là yêu cầu để các nhà hàng tồn tại và phát triển trong bối cảnh cạnh tranh gay gắt. Một website chuyên nghiệp không chỉ cung cấp thông tin về thực đơn hay phong cách phục vụ mà còn là công cụ chiến lược giúp mở rộng thị trường, nâng cao trải nghiệm khách hàng và khẳng định giá trị thương hiệu.
+Ngày nay, khách hàng ngày càng ưa chuộng việc tìm kiếm thông tin, đặt bàn và thanh toán trực tuyến, điều này đòi hỏi website phải tích hợp các tính năng tiện ích như đặt bàn online, thanh toán trực tuyến và quản lý phản hồi. Tuy nhiên, không phải nhà hàng nào cũng có đủ nguồn lực để xây dựng và duy trì một website hiệu quả. Những thách thức về chi phí đầu tư, lựa chọn phương pháp xây dựng phù hợp, cũng như yêu cầu cập nhật nội dung thường xuyên là các rào cản lớn, đặc biệt với các nhà hàng vừa và nhỏ. 
+Dẫu vậy, một website được thiết kế và vận hành tốt sẽ mang lại nhiều lợi ích thiết thực, từ việc tăng cường uy tín, tiếp cận khách hàng tiềm năng đến nâng cao sự gắn kết và cải thiện trải nghiệm người dùng. Đây chính là bước đi cần thiết để các nhà hàng vượt qua các chế độ hạn chế của phương thức truyền tải, tạo dựng cơ sở vững chắc và phát triển cơ sở vững chắc trong thời đại số hóa. Đó cũng chính là lí do nhóm chúng em chọn chủ đề “ Xây dựng website giới thiệu ẩm thực nhà hàng”.
+</p>
+
 # Ảnh demo
 **User Home Screens**
 
